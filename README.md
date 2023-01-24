@@ -1,1 +1,1 @@
-# medium_artigo_1
+Repositório de códigos e resultados do post para o Medium
